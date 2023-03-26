@@ -8,3 +8,6 @@ arms = 2
 deaths = 9000.00000001
 children = 1.00
 livers = .04
+real = false
+cool = true
+friendly = true
